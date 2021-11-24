@@ -1,48 +1,26 @@
-# (project name)
+# ABOUT BABIKIR
 
-<!-- describe your project -->
+---
 
-## Getting Started
+babikir is a sudanese national that live in kenya since 2012 and currently
+aspirating to become a software developer. having enrolled with ITALANTA ACADEMY
+it was a great opportunity for him to pursure his dream in the software
+dveloping industry.throughout the field of programming babikir has planned to
+come up with an app that will help the youth in the community to find jobs
+online and also to pursue higher education online in coordination with different
+top university around the world. babikir is also aa writer and currently writing
+his book entitled the tears of the sun... a book that explains his epic journey
+to kenya from the war torn sudan and his life as a refugee. have lived in the
+refugee camp for the last 9 years has made a very important turning point in his
+life.
 
-<!-- a guide to using this repository -->
+## **BABIKIR PROFILE**
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+![wazir-babikir](https://scontent.fmba5-1.fna.fbcdn.net/v/t39.30808-6/236098456_2920814238162158_6655512753424338408_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeH_X2yg6LlJ3hQmzE5T_yYCzpJA_PG9frLOkkD88b1-svY-3HjAC8L-s02OEUQcbJWjhS886RxvKZYCrwrCYQwO&_nc_ohc=VFTZeiA_xa0AX8l_SbQ&_nc_ht=scontent.fmba5-1.fna&oh=00ce82be9ed1cff87804877120050cf9&oe=61A39DE7)
 
-## Code Quality Checks
+home address kakuma 1 zone three block home address. 2828282 obduraman ..ambadan
+block 12\*\*
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+EMAIL:(babibaballa2017@gmail.com)
 
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+GITHUB LINK)(https://github.com/wazir-babikir)
